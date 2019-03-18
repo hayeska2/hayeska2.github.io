@@ -1,5 +1,7 @@
 
  # Timeline 
+ 
+ 
 ## *Monday 18th February 2019*
 The very first class of Project 1 for the semester. We all gathered and met the tutors that were
 involved in the various projects. It was announced that I would be the volunteering coordinator
